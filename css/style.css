@@ -38,3 +38,7 @@
         max-width: 100%;
     }
 }
+
+.cat-breed{
+    transform: scale(1.05);
+}
