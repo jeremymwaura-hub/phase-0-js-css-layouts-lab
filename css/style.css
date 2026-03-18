@@ -13,6 +13,7 @@
     border-radius: 8px;
     text-align: center;
     transition: transform 0.3;
+    box-shadow: 0 4px 8px rgba(0, 0, o, 0.1);
 }
 
 .cat-breed img{
@@ -28,3 +29,4 @@
 .cat-breed p{
     margin: o.5em 0 1em;
 }
+
