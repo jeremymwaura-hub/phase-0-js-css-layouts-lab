@@ -21,3 +21,10 @@
     border-radius: 8px;
 }
 
+.cat-breed h3{
+    margin: o.5em 0;
+}
+
+.cat-breed p{
+    margin: o.5em 0 1em;
+}
